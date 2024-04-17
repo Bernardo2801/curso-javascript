@@ -1,8 +1,8 @@
 /*
 Conceito de Boolean - verdadeiro e falso (true or false)
 
-true = 0
-false = 1
+true = 1
+false = 0
 ------------------------
 Conditions condições aplicadas no código
 
